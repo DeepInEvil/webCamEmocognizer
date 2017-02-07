@@ -23,11 +23,17 @@ The data consists of scaled images from the kaggle competion kept in the data fo
 
 # Training and running the tool
 
-to train using the data, use the file trainCNN.py
+to train using the data, use the file trainCNN.py </br>
 python ./trainCNN.py
 
-to run the detection using the training models run:
+to run the detection using the training models run:</br>
 python ./DetectEmotion.py
+
+# Todos
+play around with the hyperparameters to get the best model
+
+# N.B.
+This project was part of my Master's thesis, the thesis is also added in the documents folder
 
 # References:
 ImageNet Classification with Deep Convolutional Neural Networks <br />
