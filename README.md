@@ -12,11 +12,12 @@ Then, we are using opencv to extract 48 x 48 dimension images using the webcam a
 
 # Requirements
 
-Keras (1.2.1)
-numpy
-pandas
-theano (0.8.2)
-cv2 (1.0)
+The code is written in python 2.7.9 </br>
+Keras (1.2.1) </br>
+numpy </br>
+pandas </br>
+theano (0.8.2) </br>
+cv2 (1.0) </br>
 
 # Data
 The data consists of scaled images from the kaggle competion kept in the data folder and also the labels in .npy format
