@@ -24,7 +24,10 @@ The data consists of scaled images from the kaggle competion kept in the data fo
 
 # Training and running the tool
 
-to train using the data, use the file trainCNN.py </br>
+To train using the data, use the file trainCNN.py </br>
+Firstly, create the image data scaled, run the script </br>
+python ./genScaledDat.py </br>
+check if the file Scaled.bin.npy is generated in the data folder. </br>
 python ./trainCNN.py
 
 to run the detection using the training models run:</br>
