@@ -34,6 +34,9 @@ python ./trainCNN.py
 to run the detection using the training models run:</br>
 python ./DetectEmotion.py
 
+# Sample
+here is a gif from the application </br>
+![](https://github.com/Deep911/webCamEmocognizer/gif/optimised.gif)
 # Todos
 play around with the hyperparameters to get the best model.
 
