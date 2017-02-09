@@ -36,7 +36,7 @@ python ./DetectEmotion.py
 
 # Sample
 here is a gif from the application </br>
-![](https://github.com/Deep911/webCamEmocognizer/gif/optimised.gif)
+![](https://github.com/Deep911/webCamEmocognizer/blob/master/gif/optimised.gif)
 # Todos
 play around with the hyperparameters to get the best model.
 
