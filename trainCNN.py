@@ -36,11 +36,11 @@ model.add(Activation('softmax'))
 
 #training the model with cross sgd and nesterov momentum
 
-sgd = SGD(lr=0.05, decay=1e-6, momentum=0.9, nesterov=True)
+sgd = SGD(lr=0.055, decay=1e-6, momentum=0.9, nesterov=True)
 #optm = RMSprop(lr=0.004, rho=0.9, epsilon=1e-08, decay=0.0)
 model.compile(loss='categorical_crossentropy', optimizer=sgd)
 
-model.fit(X_train,Y_tr_labels , batch_size=128 , nb_epoch=20)
+model.fit(X_train,Y_tr_labels , batch_size=128 , nb_epoch=15)
 
 #save the model weights
 import h5py
