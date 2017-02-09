@@ -35,7 +35,7 @@ to run the detection using the training models run:</br>
 python ./DetectEmotion.py
 
 # Sample
-Here's a gif from the application:</br>
+Here's a snapshot of the application:</br>
 </br>
 ![](https://github.com/Deep911/webCamEmocognizer/blob/master/gif/optimised.gif)
 # Todos
