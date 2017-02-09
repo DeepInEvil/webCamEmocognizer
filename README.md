@@ -44,7 +44,7 @@ play around with the hyperparameters to get the best model.
 This project was part of my Master's thesis, the thesis is also added in the documents folder.
 
 # References:
-ImageNet Classification with Deep Convolutional Neural Networks. <br />
-Convolutional Neural Networks for Facial Expression Recognition. <br />
+Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton. ImageNet Classification with Deep Convolutional Neural Networks. <br />
+Shima Alizadeh, Azar Fazel. Convolutional Neural Networks for Facial Expression Recognition. <br />
 https://codeplasma.com/2012/12/03/getting-webcam-images-with-python-and-opencv-2-for-real-this-time/
 
