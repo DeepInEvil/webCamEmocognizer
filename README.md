@@ -1,6 +1,7 @@
 # webCamEmocognizer
 A cool emotion detector using your laptop/desktop webcam.
 
+# Data resource
 The data for this work is taken from the kaggle competiotion: 
 Challenges in Representation Learning: Facial Expression Recognition Challenge https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
 
@@ -35,17 +36,19 @@ to run the detection using the training models run:</br>
 python ./DetectEmotion.py
 
 # Sample
-Here's a snapshot from the application:</br>
+Let's see if it likes beer:</br>
 </br>
 ![](https://github.com/DeepInEvil/webCamEmocognizer/blob/master/gif/optimised.gif)
 # Todos
-play around with the hyperparameters to get the best model.
-
+A lot
+1) Clean up the code
+2) Update Keras backend and use OpenCv 3.0
+3) If anyone wants to contribute, plase feel free to contact.
 # N.B.
 This project was part of my Master's thesis, the thesis is also added in the documents folder.
 
 # References:
-Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton. ImageNet Classification with Deep Convolutional Neural Networks. <br />
-Shima Alizadeh, Azar Fazel. Convolutional Neural Networks for Facial Expression Recognition. <br />
-https://codeplasma.com/2012/12/03/getting-webcam-images-with-python-and-opencv-2-for-real-this-time/
+[1] Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton. ImageNet Classification with Deep Convolutional Neural Networks. <br />
+[2] Shima Alizadeh, Azar Fazel. Convolutional Neural Networks for Facial Expression Recognition. <br />
+[3] https://codeplasma.com/2012/12/03/getting-webcam-images-with-python-and-opencv-2-for-real-this-time/
 
